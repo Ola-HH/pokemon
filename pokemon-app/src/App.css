@@ -1,0 +1,12 @@
+* {
+  text-align: center;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.MuiTable-root .MuiTableRow-root:last-child td {
+  border-bottom: 0 !important;
+}
+
