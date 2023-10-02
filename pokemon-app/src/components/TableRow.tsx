@@ -12,7 +12,7 @@ interface Props {
 
 const Row: React.FC<Props> = ({ pokemon, selected, columns, index, onSelect }) => {      
     return (
-        <TableRow id={pokemon.name} selected={selected} onClick={() => onSelect(index)}>
+        <TableRow id={pokemon.name} selected={selected} onClick={() => onSelect(index)} sx={{ cursor: 'pointer' }}>
             <TableCell>
                 {pokemon.id}
             </TableCell>
