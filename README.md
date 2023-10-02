@@ -1,6 +1,6 @@
 # Pokemon App
 
-This is a simple React application for browsing and exploring Pokémon. You can either clone the repository from GitHub and run it locally using npm, or you can access the live version of the application at [https://ola-hh.github.io/pokemon/](https://ola-hh.github.io/pokemon/).
+This is a simple React application for browsing and exploring Pokémon. You can clone the repository from GitHub and run it locally using npm.
 
 ## Table of Contents
 
@@ -8,7 +8,6 @@ This is a simple React application for browsing and exploring Pokémon. You can 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the application](#running-the-application)
-- [Accessing the live version](#accessing-the-live-version)
 - [Usage](#usage)
 
 ## Getting started locally
@@ -47,10 +46,6 @@ Once you have cloned the repository and installed the dependencies, you can star
   ```
 
 This will start the development server, and the application will be available at http://localhost:3000 in your web browser.
-
-## Accessing the live version
-
-If you prefer not to run the application locally, you can access the live version hosted on GitHub Pages at https://ola-hh.github.io/pokemon/.
 
 ## Usage
 
